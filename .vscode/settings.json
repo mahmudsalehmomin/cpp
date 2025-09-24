@@ -11,6 +11,7 @@
     "files.associations": {
         "iostream": "cpp",
         "array": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "ostream": "cpp"
     }
 }
