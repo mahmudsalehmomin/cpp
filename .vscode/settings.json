@@ -12,6 +12,7 @@
         "iostream": "cpp",
         "array": "cpp",
         "regex": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "new": "cpp"
     }
 }
